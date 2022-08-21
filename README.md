@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 My name is [Ajo M Varghese](https://www.linkedin.com/in/jo-0/), a passionate self-taught full-stack developer from Bangalore, India.\
 I'm an aspiring blog writer & would love to contribute to open source. I have a bachelor's degree in Computer Science.
 
 
 #### Languages & Frameworks I'm familiar with:
-<code><a href="https://www.swift.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code></a>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
-<code><a href="https://www.python.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
-<code><a href="https://vuejs.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code></a>
-<code><a href="https://www.djangoproject.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code></a>
-<code><a href="https://www.postgresql.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code></a>
+<code><a href="https://www.swift.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></a></code>
+<code><a href="https://developer.apple.com/ios/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="https://vuejs.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
+<code><a href="https://www.python.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
+<code><a href="https://www.djangoproject.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></a></code>
+<code><a href="https://www.postgresql.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a></code>
 
 ---
 - 🔭 I’m currently working as a freelance software engineer.
