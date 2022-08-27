@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-My name is [Ajo M Varghese](https://www.linkedin.com/in/jo-0/), a passionate self-taught full-stack developer from Bangalore, India.\
+My name is [Ajo M Varghese](https://jo-0.github.io/one-pager/), a passionate self-taught full-stack developer from Bangalore, India.\
 I'm an aspiring blog writer & would love to contribute to open source. I have a bachelor's degree in Computer Science.
 
 
@@ -14,10 +14,10 @@ I'm an aspiring blog writer & would love to contribute to open source. I have a 
 <code><a href="https://www.postgresql.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a></code>
 
 ---
-- 🔭 I’m currently working as a freelance software engineer.
+- 🔭 I’m currently working as a [freelance software engineer](https://www.linkedin.com/in/jo-0/).
 - 🌱 I’m currently learning to switch between perfectionism & pragmatism.
 - 💬 Ask me about scraping web pages with [puppeteer](https://developer.chrome.com/docs/puppeteer/overview/) & building a [photograhy](https://kartickvad.github.io/futurecam-website/) app on iOS.
-- 📫 Reach me at [jo-0@outlook.in](mailto:jo-0@outlook.in)
+- 📫 Reach me [@jo-0](mailto:jo-0@outlook.in)
 - ⚡ Fun fact: I once drove 8 hours just to eat a [biriyani](https://en.wikipedia.org/wiki/Biryani)
 
 
