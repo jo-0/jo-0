@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-My name is [Ajo M Varghese](https://jo-0.github.io/one-pager/), a passionate self-taught full-stack developer from Bangalore, India.\
+My name is [Ajo Varghese](https://jo-0.github.io/one-pager/), a passionate self-taught full-stack developer from Bangalore, India.\
 I'm an aspiring blog writer & would love to contribute to open source. I have a bachelor's degree in Computer Science.
 
 
