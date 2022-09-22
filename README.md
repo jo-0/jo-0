@@ -4,7 +4,7 @@ My name is [Ajo Varghese](https://jo-0.github.io/one-pager/), a passionate self-
 I'm an aspiring blog writer & would love to contribute to open source. I have a bachelor's degree in Computer Science.
 
 
-#### Languages & Frameworks I'm familiar with:
+#### Languages, Frameworks and Databases I've worked with:
 <code><a href="https://www.swift.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></a></code>
 <code><a href="https://developer.apple.com/ios/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
@@ -14,7 +14,7 @@ I'm an aspiring blog writer & would love to contribute to open source. I have a 
 <code><a href="https://www.postgresql.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></a></code>
 
 ---
-- 🔭 I’m currently working as a [freelance software engineer](https://www.linkedin.com/in/jo-0/).
+- 🔭 I’m currently looking for a job as [a python developer](https://www.linkedin.com/in/jo-0/).
 - 🌱 I’m currently learning to switch between perfectionism & pragmatism.
 - 💬 Ask me about scraping web pages with [puppeteer](https://developer.chrome.com/docs/puppeteer/overview/) & building a [photograhy](https://kartickvad.github.io/futurecam-website/) app on iOS.
 - 📫 Reach me [@jo-0](mailto:jo-0@outlook.in)
