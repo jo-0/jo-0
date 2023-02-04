@@ -20,7 +20,6 @@ I'm an aspiring blog writer & would love to contribute to open source. I have a 
 - 💬 Ask me about scraping web pages with [puppeteer](https://developer.chrome.com/docs/puppeteer/overview/) & building a [photograhy](https://kartickvad.github.io/futurecam-website/) app on iOS.
 - 📫 Reach me [@jo-0](mailto:jo-0@outlook.in)
 - ⚡ Fun fact: I once drove 8 hours just to eat a [biriyani](https://en.wikipedia.org/wiki/Biryani)
-- 🦣 <a rel="me" href="https://fosstodon.org/@blak_stig">Mastodon</a>
 
 
 <!--
