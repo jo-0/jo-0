@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
 
 My name is [Ajo Varghese](https://ajovarghese.com/), a passionate self-taught full-stack developer from Bangalore, India.\
-I'm an aspiring blog writer & would love to contribute to open source. I have a bachelor's degree in Computer Science. Also, a DevOps Enthusiast.
+I'm an aspiring blog writer & love to contribute to open source. I have a bachelor's degree in Computer Science. Also, a DevOps Enthusiast.
 
 
 #### Languages, Frameworks and Databases I've worked with:
@@ -15,7 +15,7 @@ I'm an aspiring blog writer & would love to contribute to open source. I have a 
 <code><a href="https://developer.apple.com/ios/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></a></code>
 
 ---
-- 🔭 I’m currently looking for a job as a freelance software engineer.
+- 🔭 I’m currently working as a python developer.
 - 🌱 I’m currently learning to switch between perfectionism & pragmatism.
 - 💬 Ask me about scraping web pages with [puppeteer](https://developer.chrome.com/docs/puppeteer/overview/) & building a [photograhy](https://kartickvad.github.io/futurecam-website/) app on iOS.
 - 📫 Reach me [@jo-0](mailto:jo-0@outlook.in)
