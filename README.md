@@ -6,13 +6,13 @@ I'm an aspiring blog writer & love to contribute to open source. I have a bachel
 
 #### Languages, Frameworks and Databases I've worked with:
 
+<code><a href="https://www.swift.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png"></a></code>
+<code><a href="https://developer.apple.com/ios/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></a></code>
 <code><a href="https://www.python.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></a></code>
 <code><a href="https://www.djangoproject.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></a></code>
 <code><a href="https://www.postgresql.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></a></code>
 <code><a href="https://vuejs.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></a></code>
-<code><a href="https://www.swift.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png"></a></code>
-<code><a href="https://developer.apple.com/ios/"><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></a></code>
 
 ---
 - 🔭 I’m currently working as a python developer.
